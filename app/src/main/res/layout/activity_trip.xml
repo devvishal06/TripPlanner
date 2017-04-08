@@ -1,0 +1,9 @@
+<fragment
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".TripActivity"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:name="ch.eia_fr.tic.magnemazzoleni.tripplanner.TripFragment"
+        tools:layout="@layout/fragment_trip"
+        android:id="@+id/fragment" />
